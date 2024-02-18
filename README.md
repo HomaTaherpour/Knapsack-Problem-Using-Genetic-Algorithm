@@ -1,4 +1,4 @@
-# Genetic-Algorithm-For-Knapsack-Problem
+# Genetic Algorithm For Knapsack Problem
 This Python project implements a genetic algorithm to solve the classic Knapsack Problem, an optimization challenge aiming to maximize the total value of items within a knapsack while adhering to weight constraints, providing a customizable and evolutionary approach to finding optimal or near-optimal solutions in a combinatorial space with a rich history in computer science and mathematics.
 
 
